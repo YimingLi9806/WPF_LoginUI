@@ -42,7 +42,7 @@ namespace WPF_LoginUI
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             
-            if (loginViewModel.LoginM.UserName == "333" && loginViewModel.LoginM.PassWord == "666")
+            if (loginViewModel.UserName == "333" && loginViewModel.PassWord == "666")
             {
                 Index index = new Index();
                 index.Show();
@@ -52,9 +52,9 @@ namespace WPF_LoginUI
             else
             {
                 MessageBox.Show("no");
-                loginViewModel.LoginM.PassWord = "NO";
-                loginViewModel.LoginM.UserName = "NO";
-                loginViewModel.LoginM = loginViewModel.LoginM;
+                loginViewModel.PassWord = "NO";
+                loginViewModel.UserName = "NO";
+                
                
             }
             

@@ -14,11 +14,10 @@ namespace WPF_LoginUI
             get { return _UserName; }
             set
             {
-                if (_UserName != value)
-                {
+               
                     _UserName = value;
                    
-                }
+                
             }
         }
 
@@ -29,11 +28,10 @@ namespace WPF_LoginUI
             get { return _PassWord; }
             set
             {
-                if (_PassWord != value)
-                {
+                
                     _PassWord = value;
                     
-                }
+                
             }
         }
     }

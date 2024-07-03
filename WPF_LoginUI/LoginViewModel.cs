@@ -24,7 +24,7 @@ namespace WPF_LoginUI
        
         
 
-        private LoginModel _LoginM;
+/*        private LoginModel _LoginM;
         public LoginModel LoginM
         {
             get { 
@@ -35,15 +35,41 @@ namespace WPF_LoginUI
             }
             set
             {
-                /*if (_LoginM != value)
-                {*/
+                *//*if (_LoginM != value)
+                {*//*
                     _LoginM = value;
                     RaisePropertyChanged("LoginM");
                 
             }
-        }
+        }*/
 
         //public LoginViewModel() { }
-        
+
+        private LoginModel LoginM = new LoginModel();
+
+        //private string _UserName;
+        public string UserName
+        {
+            get { return LoginM.UserName; }
+            set
+            {
+               
+                LoginM.UserName = value;
+                RaisePropertyChanged("UserName");
+                
+            }
+        }
+
+        public string PassWord
+        {
+            get { return LoginM.PassWord; }
+            set
+            {              
+                 LoginM.PassWord = value;
+                 RaisePropertyChanged("PassWord");              
+            }
+        }
+
+
     }
 }

@@ -30,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_LoginUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:55:12.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,7 +58,8 @@
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\Index.xaml",
               "RelativeToolTip": "WPF_LoginUI\\Index.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-28T18:34:32.62Z"
+              "WhenOpened": "2024-06-28T18:34:32.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,19 +70,7 @@
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml",
               "RelativeToolTip": "WPF_LoginUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T16:55:13.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF_LoginUI\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAgwDYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:55:12.886Z",
+              "WhenOpened": "2024-06-27T16:55:13.27Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +81,10 @@
               "RelativeDocumentMoniker": "WPF_LoginUI\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginViewModel.cs",
               "RelativeToolTip": "WPF_LoginUI\\LoginViewModel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwA8AAABGAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T12:18:40.709Z"
+              "WhenOpened": "2024-07-02T12:18:40.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,9 +94,10 @@
               "RelativeDocumentMoniker": "WPF_LoginUI\\LoginModel.cs",
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginModel.cs",
               "RelativeToolTip": "WPF_LoginUI\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswCEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T13:11:11.765Z"
+              "WhenOpened": "2024-07-02T13:11:11.765Z",
+              "EditorCaption": ""
             }
           ]
         }
