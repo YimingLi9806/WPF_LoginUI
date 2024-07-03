@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -56,8 +56,7 @@
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml",
               "RelativeToolTip": "WPF_LoginUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-27T16:55:13.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T16:55:13.27Z"
             },
             {
               "$type": "Document",
@@ -67,7 +66,7 @@
               "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPF_LoginUI\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAA5wDYAAAA0AAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T16:55:12.886Z",
               "EditorCaption": ""
@@ -82,8 +81,7 @@
               "RelativeToolTip": "WPF_LoginUI\\LoginViewModel.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAuwA8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T12:18:40.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T12:18:40.709Z"
             },
             {
               "$type": "Document",
