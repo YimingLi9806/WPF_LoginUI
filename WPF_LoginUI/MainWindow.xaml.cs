@@ -20,48 +20,17 @@ namespace WPF_LoginUI
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
-    {
-        LoginModel loginModel;
+    { 
         LoginViewModel loginViewModel;
         public MainWindow()
         {
             InitializeComponent();
-            //loginModel = new LoginModel();
-            //loginModel.UserName = "initial UN";
-            //loginModel.PassWord = "initial PW";
-
-            //this.DataContext = loginModel;
-
-            loginViewModel = new LoginViewModel();
+            loginViewModel = new LoginViewModel(this);
             this.DataContext = loginViewModel;
         }
 
        
-        /*public string UserName { get; set; } = "333";
-        public string PassWord { get; set; } = "123";*/
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            
-            if (loginViewModel.UserName == "333" && loginViewModel.PassWord == "666")
-            {
-                Index index = new Index();
-                index.Show();
-                this.Close();
-                
-            }
-            else
-            {
-                MessageBox.Show("no");
-                loginViewModel.PassWord = "NO";
-                loginViewModel.UserName = "NO";
-                
-               
-            }
-            
 
-
-
-        }
     }
 
     

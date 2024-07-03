@@ -4,12 +4,19 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
+
 
 namespace WPF_LoginUI
 {
     public class LoginViewModel:INotifyPropertyChanged
     {
-        
+            private MainWindow _mainWindow;
+            public LoginViewModel(MainWindow main) 
+            { 
+                _mainWindow = main;
+            }
             public event PropertyChangedEventHandler PropertyChanged;
             private void RaisePropertyChanged(string propertyName)
             {
@@ -22,28 +29,7 @@ namespace WPF_LoginUI
             }
 
        
-        
-
-/*        private LoginModel _LoginM;
-        public LoginModel LoginM
-        {
-            get { 
-
-                if (_LoginM == null)
-                    _LoginM = new LoginModel();
-                return _LoginM; 
-            }
-            set
-            {
-                *//*if (_LoginM != value)
-                {*//*
-                    _LoginM = value;
-                    RaisePropertyChanged("LoginM");
-                
-            }
-        }*/
-
-        //public LoginViewModel() { }
+      
 
         private LoginModel LoginM = new LoginModel();
 
@@ -69,7 +55,39 @@ namespace WPF_LoginUI
                  RaisePropertyChanged("PassWord");              
             }
         }
+       void LoginFunc()
+       {
 
+            if (UserName == "333" && PassWord == "666")
+            {
+                Index index = new Index();
+                index.Show();
+                _mainWindow.Hide();
+
+            }
+            else
+            {
+                MessageBox.Show("no");
+                PassWord = "NO";
+                UserName = "NO";
+
+
+            }
+
+
+
+
+       }
+        //for binding the button
+        bool CanLoginExecute() {  return true; }
+        public ICommand LoginAction 
+        { 
+            get 
+            {
+                return new RelayCommand(LoginFunc,CanLoginExecute);
+            
+            }        
+        }
 
     }
 }
