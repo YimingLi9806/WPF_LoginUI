@@ -52,7 +52,7 @@ namespace WPF_LoginUI
             else
             {
                 MessageBox.Show("no");
-                loginViewModel.LoginM.PassWord = "no";
+                loginViewModel.LoginM.PassWord = "No";
                 loginViewModel.LoginM.UserName = "NO";
                 loginViewModel.LoginM = loginViewModel.LoginM;
                
