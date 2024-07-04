@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\index.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\index.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +46,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\App.xaml",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\App.xaml",
+              "RelativeToolTip": "WPF_LoginUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T19:11:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomButtonStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\CustomButtonStyles.xaml",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\CustomButtonStyles.xaml",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\CustomButtonStyles.xaml",
+              "RelativeToolTip": "WPF_LoginUI\\CustomButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T18:11:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\CustomButton.cs",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\CustomButton.cs",
+              "RelativeToolTip": "WPF_LoginUI\\CustomButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:43:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\RelayCommand.cs",
               "RelativeDocumentMoniker": "WPF_LoginUI\\RelayCommand.cs",
@@ -55,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml.cs",
@@ -68,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.xaml",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\Index.xaml",
               "RelativeDocumentMoniker": "WPF_LoginUI\\Index.xaml",
@@ -80,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml",
@@ -92,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "WPF_LoginUI\\LoginViewModel.cs",

@@ -37,7 +37,7 @@
             <TextBox  Text="{Binding PassWord}" Margin ="2" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center"/>
 
             <CheckBox Grid.ColumnSpan="2" Content="remember me" Grid.Row="2"/>
-            <Button Grid.ColumnSpan="2" Content="log in" Grid.Row="3" Command="{Binding LoginAction}"/>
+            <local:CustomButton Background="azure" Grid.ColumnSpan="2" Content="log in1223" Grid.Row="3" Command="{Binding LoginAction}"/>
 
         </Grid>
     </Grid>

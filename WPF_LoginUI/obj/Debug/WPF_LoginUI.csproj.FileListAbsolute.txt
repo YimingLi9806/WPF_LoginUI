@@ -15,3 +15,6 @@ C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.exe
 C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.pdb
 C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\Index.g.cs
 C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\Index.baml
+C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\App.baml
+C:\Users\YimingLi\Desktop\WPF_LoginUI\WPF_LoginUI\obj\Debug\CustomButtonStyles.baml
