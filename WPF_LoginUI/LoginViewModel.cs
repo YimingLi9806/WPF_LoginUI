@@ -80,7 +80,7 @@ namespace WPF_LoginUI
        }
         //for binding the button
         bool CanLoginExecute() {  return true; }
-        public ICommand LoginAction 
+        public ICommand LoginAction
         { 
             get 
             {

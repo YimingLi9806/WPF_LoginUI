@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|c:\\users\\yimingli\\desktop\\wpf_loginui\\wpf_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E346C9-7637-4027-B0A3-8270F6F7E36E}|WPF_LoginUI\\WPF_LoginUI.csproj|solutionrelative:wpf_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +42,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\RelayCommand.cs",
+              "RelativeToolTip": "WPF_LoginUI\\RelayCommand.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:33:58.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_LoginUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:30:21.698Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WPF_LoginUI\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginViewModel.cs",
+              "RelativeToolTip": "WPF_LoginUI\\LoginViewModel.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:56:17.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF_LoginUI\\MainWindow.xaml",
@@ -42,15 +92,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginModel.cs",
               "RelativeDocumentMoniker": "WPF_LoginUI\\LoginModel.cs",
               "ToolTip": "C:\\Users\\YimingLi\\Desktop\\WPF_LoginUI\\WPF_LoginUI\\LoginModel.cs",
               "RelativeToolTip": "WPF_LoginUI\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T15:36:00.324Z"
+              "WhenOpened": "2024-07-04T15:36:00.324Z",
+              "EditorCaption": ""
             }
           ]
         }
